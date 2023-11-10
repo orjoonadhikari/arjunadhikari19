@@ -5,3 +5,7 @@ aws
 linux
 terraform
 ansibel
+kubernetes
+docker
+git
+ci/cd
